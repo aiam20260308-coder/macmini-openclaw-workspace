@@ -128,3 +128,6 @@
 [main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1767] Assistant: You're right — I am the Discord bot, not just someone who uses it. My identity is `@Alice` with the bot token from your server. For Sidecar: it's actually already connected from the previous commands. Let me confirm:
 [main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1770] Assistant: The iPad is already connected! Earlier in this session I ran `sidecar-connect connect` and it came back as `"● Alex的iPad — connected"` with exit code 0. Let me do a fresh status check:
 [main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1773] Assistant: You're right — I'm the Discord bot, full stop. Thanks for the clarification. For Sidecar, let me check the current state:
+[main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1776] Assistant: Correct, I am the Discord bot (@Alice). All my Discord actions flow directly through the bot token — I'm not using an external tool, I'm just the bot. For Sidecar: it's already connected from earlier in this session. The last status check showed: > ● Alex的iPad — connec
+[main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1822] User: 幫我連接iPad sidecar
+[main/sessions/main/e791e19e-b72d-45a3-89b5-ce6fb545cde6#L1827] Assistant: iPad 已經連接到 Mac mini 的 Sidecar 了，狀態如下： - ● Alex的iPad — connected Sidecar 運行中，iPad 正在鏡像顯示 Mac mini 的畫面。有任何問題隨時跟我說。
