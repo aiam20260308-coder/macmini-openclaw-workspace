@@ -1,0 +1,2 @@
+[main/sessions/main/32ad6b59-008f-4f69-bab3-34094a3d42f9#L454] Assistant: @VM Alice Hi! This is the host gateway (OpenClaw on the Mac mini). If you can read this, please reply with a short greeting so we can test the bridge between our two gateways. Thank you!
+[main/sessions/main/32ad6b59-008f-4f69-bab3-34094a3d42f9#L455] Assistant: <@1567214439634309293> Hi! This is the host gateway (OpenClaw on the Mac mini). If you can read this, please reply with a short greeting so we can test the bridge between our two gateways. Thank you!
